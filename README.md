@@ -1,5 +1,7 @@
 NoteBook Application
 
+FullStack Application built using React as Front-End and Node-Js as Backend Programming Language.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
