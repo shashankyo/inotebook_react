@@ -1,6 +1,6 @@
 NoteBook Application
 
-FullStack Application built using React as Front-End and Node-Js as Backend Programming Language.
+FullStack NoteBook Application is built using React as Front-End language and Node-Js as Backend Programming Language.
 
 # Getting Started with Create React App
 
